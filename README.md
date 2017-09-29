@@ -29,14 +29,11 @@ To begin using this notebook, choose one of the following options to get started
 
 ### Basic Usage
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `mammogram-prediction-using-neural-networks.ipynb` file in your web browser.
+After downloading, simply open the `mammogram-prediction-using-neural-networks.ipynb` file in your web browser.
 
 ### Advanced Usage
 
-
-## Bugs and Issues
-
-## Custom Builds
+None.
 
 
 ## About
