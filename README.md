@@ -12,15 +12,7 @@ This data contains 961 instances of masses detected in mammograms, and contains 
    4. Margin: mass margin: circumscribed=1 microlobulated=2 obscured=3 ill-defined=4 spiculated=5 (nominal)
    5. Density: mass density high=1 iso=2 low=3 fat-containing=4 (ordinal)
    6. Severity: benign=0 or malignant=1 (binominal)
-
-
-# Sentiment-Analysis-using-Keras
-
-Recurring Neural Networks using Keras-Sentiment analysis from movie reviews.
-
-This notebook is inspired by the imdb_lstm.py example that ships with Keras.
-It's actually a great example of using RNN's. The data set we're using consists of user-generated movie reviews and classification of whether the user liked the movie or not based on its associated rating.
-
+   
 # Status
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-blog-post/master/LICENSE)
@@ -52,8 +44,6 @@ After downloading, simply edit the HTML and CSS files included with the template
 More info on the dataset is here:
 
 [mammographic masses](https://archive.ics.uci.edu/ml/datasets/Mammographic+Mass) public dataset from the UCI repository. 
-
-
 
 
 
