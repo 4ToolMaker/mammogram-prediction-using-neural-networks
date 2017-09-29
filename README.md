@@ -22,8 +22,6 @@ This data contains 961 instances of masses detected in mammograms, and contains 
 To begin using this notebook, choose one of the following options to get started:
 
 * Download or clone this repository
-* 
-
 
 ## Usage
 
